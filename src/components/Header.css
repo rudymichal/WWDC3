@@ -1,0 +1,40 @@
+.header {
+	background-color: #ffffff;
+}
+
+.container {
+	max-width: 940px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 115px;
+	padding: 0 15px;
+}
+
+.header a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font: 600 14px "Montserrat";
+	color: #777777;
+}
+
+a:hover {
+	color: #222222;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+	margin-left: 35px;
+}
+
+
+

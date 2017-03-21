@@ -1,0 +1,28 @@
+.home {
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/bg-home.jpg") center no-repeat;
+	background-size: cover;
+	height: 530px;
+}
+
+.home-title {
+	color: #ffffff;
+	text-transform: uppercase;
+	font: 800 60px "Monsterrat";
+	margin: 0;
+}
+
+.home-subtitle {
+	color: #cccccc;
+	font-family: "Roboto Slab";
+	font-size: 20px;
+}
+
+.home a {
+	font: 800 16px "Monsterrat";
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #7cc576;
+	padding: 21px 28px;
+	border-radius: 30px;
+}
